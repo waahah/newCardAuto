@@ -263,6 +263,7 @@ def main_handler(a,b):
                 modify_coordinates=user.get("modify_coordinates", False),
             )
     push_notification("所有用户", '6613827c4c644c8bb461ba655ca6cb69', allMessage)
+    push_notification("所有用户", '945f8e0112954d728252fc48435c68a0', allMessage)
 # 示例用法
 if __name__ == "__main__":
     main_handler(1,2)
