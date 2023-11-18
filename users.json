@@ -1,0 +1,80 @@
+[
+    {
+        "alias": "靳凯杰",
+        "phone_number": "410523200203080018",
+        "password": "1314jkj765913",
+        "address": "山东省德州市德城区开发区付庄路力量万象城",
+        "phonetype": "Honor|COL-AL10|11",
+        "longitude": 116.388268,
+        "latitude": 37.468781,
+        "pushtoken": "945f8e0112954d728252fc48435c68a0",
+        "modify_coordinates": true,
+        "enabled": true,
+        "dToken": "55dbf3e188444bada4293f251eca364cd8f6"
+    },
+    {
+        "alias": "范非凡",
+        "phone_number": "410523200204069419",
+        "password": "fan20020406",
+        "address": "山东省德州市德城区开发区付庄路力量万象城",
+        "phonetype": "Xiaomi|Mi 12|12",
+        "longitude": 116.388268,
+        "latitude": 37.468781,
+        "pushtoken": "",
+        "modify_coordinates": true,
+        "enabled": true,
+        "dToken": "00c20dff927f44c2af3b7b9ce01ba315b122"
+    },
+    {
+        "alias": "侯魏宾",
+        "phone_number": "41142320020616153X",
+        "password": "Hwb020616",
+        "address": "山东省德州市德城区开发区付庄路力量万象城",
+        "phonetype": "Xiaomi|Mi 13|13",
+        "longitude": 116.388268,
+        "latitude": 37.468781,
+        "pushtoken": "",
+        "modify_coordinates": true,
+        "enabled": true,
+        "dToken": "07d6ce8effd04949a7c2866fe2bc291344d2"
+    },
+    {
+        "alias": "王子犇",
+        "phone_number": "411403200305265718",
+        "password": "wzb1875596594",
+        "address": "山东省德州市德城区开发区付庄路力量万象城",
+        "phonetype": "Xiaomi|Mi 11|11",
+        "longitude": 116.388268,
+        "latitude": 37.468781,
+        "pushtoken": "",
+        "modify_coordinates": true,
+        "enabled": true,
+        "dToken": "d57c17a3c3f34699a132367db8a103ddf14b"
+    },
+    {
+        "alias": "齐志恒",
+        "phone_number": "411421200210184432",
+        "password": "qzh1230.0",
+        "address": "山东省德州市德城区开发区付庄路力量万象城",
+        "phonetype": "Xiaomi|Mi 10|10",
+        "longitude": 116.388268,
+        "latitude": 37.468781,
+        "pushtoken": "",
+        "modify_coordinates": true,
+        "enabled": true,
+        "dToken": "cdc88af2884b45dcb54f110a3aa348564732"
+    },
+    {
+        "alias": "蒋哲",
+        "phone_number": "18637087055",
+        "password": "jz20030202.",
+        "address": "山东省德州市德城区开发区付庄路力量万象城",
+        "phonetype": "Xiaomi|Mi 12|13",
+        "longitude": 116.388268,
+        "latitude": 37.468781,
+        "pushtoken": "",
+        "modify_coordinates": true,
+        "enabled": true,
+        "dToken": "97495a87385a404c805d0cc988a972ecfecb"
+    }
+]
