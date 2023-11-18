@@ -20,7 +20,7 @@
         "phonetype": "Xiaomi|Mi 12|12",
         "longitude": 116.388268,
         "latitude": 37.468781,
-        "pushtoken": "",
+        "pushtoken": "945f8e0112954d728252fc48435c68a0",
         "modify_coordinates": true,
         "enabled": true,
         "dToken": "00c20dff927f44c2af3b7b9ce01ba315b122"
@@ -33,7 +33,7 @@
         "phonetype": "Xiaomi|Mi 13|13",
         "longitude": 116.388268,
         "latitude": 37.468781,
-        "pushtoken": "",
+        "pushtoken": "945f8e0112954d728252fc48435c68a0",
         "modify_coordinates": true,
         "enabled": true,
         "dToken": "07d6ce8effd04949a7c2866fe2bc291344d2"
@@ -46,7 +46,7 @@
         "phonetype": "Xiaomi|Mi 11|11",
         "longitude": 116.388268,
         "latitude": 37.468781,
-        "pushtoken": "",
+        "pushtoken": "945f8e0112954d728252fc48435c68a0",
         "modify_coordinates": true,
         "enabled": true,
         "dToken": "d57c17a3c3f34699a132367db8a103ddf14b"
@@ -59,7 +59,7 @@
         "phonetype": "Xiaomi|Mi 10|10",
         "longitude": 116.388268,
         "latitude": 37.468781,
-        "pushtoken": "",
+        "pushtoken": "945f8e0112954d728252fc48435c68a0",
         "modify_coordinates": true,
         "enabled": true,
         "dToken": "cdc88af2884b45dcb54f110a3aa348564732"
@@ -72,7 +72,7 @@
         "phonetype": "Xiaomi|Mi 12|13",
         "longitude": 116.388268,
         "latitude": 37.468781,
-        "pushtoken": "",
+        "pushtoken": "945f8e0112954d728252fc48435c68a0",
         "modify_coordinates": true,
         "enabled": true,
         "dToken": "97495a87385a404c805d0cc988a972ecfecb"
